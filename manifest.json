@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Quick Search",
+    "version": "0.0.1",
+    "description": "Search YouTube directly from a popup and open results in a new tab.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
